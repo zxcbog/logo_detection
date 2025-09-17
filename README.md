@@ -132,6 +132,6 @@ curl -X POST "http://localhost:8000/detect" \
 
 ## Результаты:
 
-![1](https://github.com/zxcbog/logo_detection/images/-2025-09-15-164129_png.rf.9db54b37d28b01254b8d5e1dfc8c9ac4.jpg.png)
-![2](https://github.com/zxcbog/logo_detection/images/-2025-09-15-164156_png.rf.3501a12c9aa5d76eae6e6ff10212fab7.jpg)
-![3](https://github.com/zxcbog/logo_detection/images/2a2ddce6808abbd417ad36e246a3e604_jpg.rf.c637605c93b0125f621804d7ca9c3fcc.jpg)
+![1](https://github.com/zxcbog/logo_detection/blob/main/images/-2025-09-15-164129_png.rf.9db54b37d28b01254b8d5e1dfc8c9ac4.jpg)
+![2](https://github.com/zxcbog/logo_detection/blob/main/images/-2025-09-15-164156_png.rf.3501a12c9aa5d76eae6e6ff10212fab7.jpg)
+![3](https://github.com/zxcbog/logo_detection/blob/main/images/2a2ddce6808abbd417ad36e246a3e604_jpg.rf.c637605c93b0125f621804d7ca9c3fcc.jpg)
