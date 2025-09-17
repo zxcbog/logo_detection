@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  yolo-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./best.pt:/app/best.pt
+      - ./valid:/app/valid
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped

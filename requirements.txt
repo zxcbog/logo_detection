@@ -1,0 +1,12 @@
+torch
+opencv-python
+pillow
+fastapi
+pydantic
+ultralytics
+numpy
+matplotlib
+tqdm
+transformers
+scikit-learn
+uvicorn
